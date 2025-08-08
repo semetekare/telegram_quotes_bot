@@ -9,5 +9,5 @@ services:
     ports:
       - '8000:8000'
     environment:
-      - BOT_TOKEN=7462802231:AAGyMiw7WwCjXxOnnycrm2EkhVBU_VpUpOo
-      - CHAT_ID=924278580
+      - BOT_TOKEN=
+      - CHAT_ID=
